@@ -1,0 +1,23 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Arduino build files
+*.elf
+*.hex
+*.bin
+*.map
+
+# PlatformIO
+.pio/
+.vscode/
+
+# Secrets
+secrets.h
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
