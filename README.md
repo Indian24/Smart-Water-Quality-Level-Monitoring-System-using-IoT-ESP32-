@@ -159,7 +159,7 @@ Ultrasonic / Quality Sensors ↓ ESP32 ↓ OLED Display ─── Buzzer / LEDs 
 
 ## 6️⃣ Quick Start (5-Minute Setup)
 
-```bash
+
 git clone https://github.com/Indian24/Smart-Water-Quality-Level-Monitoring-System-using-IoT-ESP32-
 cd Smart-Water-Quality-Level-Monitoring-System-using-IoT-ESP32-
 
@@ -413,18 +413,5 @@ Adafruit SSD1306 Library
 
 ---
 
-📜 License & Credits
-
-License
-
-MIT License
-
-Credits
-
-ESP32 Community
-
-Blynk Team
-
-Adafruit Libraries
 
 
